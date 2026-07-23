@@ -1,6 +1,0 @@
-{
-  "name": "His Grace School Agbugburu",
-  "description": "School Management Portal for His Grace School Agbugburu, mouldings lives for greatness.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
